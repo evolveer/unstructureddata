@@ -24,4 +24,6 @@ Interactive Features:
 
 Usage:
 Simply run python3 data_organizer.py and follow the interactive prompts, or import the DataOrganizerSuggester class in your own scripts.
-The script is production-ready and includes comprehensive error handling, file type detection, and safety features like backup reminders. It's designed to handle everything from small personal collections to large enterprise data sets.
+The script is production-ready and includes comprehensive error handling, file type detection, and safety features like backup reminders. 
+please just do a dry run to understand how it works before using it. no liability for issues......s
+It's designed to handle everything from small personal collections to large enterprise data sets.
